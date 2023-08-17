@@ -1,6 +1,6 @@
 {
   "name": "@devexpress/callsite-record",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "description": "Create fancy log entries for errors and function call sites.",
   "main": "lib/index.js",
   "files": [
